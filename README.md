@@ -1,1 +1,3 @@
-# recettas
+# home-cook
+
+aplication to manage recipes
